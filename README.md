@@ -2,11 +2,9 @@
 
 ## Overview
 
-This project demonstrates the use of Python in data analytics through three main tasks:
-
-1. Writing a Python article on data analytics
-2. Working with JSON data from GitHub
-3. Extracting and analyzing data from DummyJSON API endpoints
+This project demonstrates the use of Python in data analytics through three main tasks
+1. Working with JSON data from GitHub
+2. Extracting and analyzing data from DummyJSON API endpoints
 
 The project shows how to collect, process, analyze, and save data using Python.
 
