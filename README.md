@@ -40,24 +40,9 @@ python-data-analytics-project/
 │   ├── products.csv
 │   ├── carts.csv
 │   └── dummyjson_api.py
-```
-
 ---
 
-## Part 1: Python Article
-
-A detailed article explaining:
-
-* What Python is
-* Why Python is important in data analytics
-* Key Python libraries
-* Data cleaning and visualization techniques
-* Real-world applications of Python
-* Importance of learning Python
-
----
-
-## Part 2: Working with JSON Data from GitHub
+## Part 1: Working with JSON Data from GitHub
 
 ### Steps followed:
 
@@ -83,7 +68,7 @@ A detailed article explaining:
 
 ---
 
-## Part 3: Working with DummyJSON API
+## Part 2: Working with DummyJSON API
 
 ### APIs Used:
 
